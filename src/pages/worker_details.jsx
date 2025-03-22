@@ -4,7 +4,7 @@ import pic13 from "../media/pic13.jpg";
 
 const worker_details = () => {
   return (
-    <div className="container">
+    <div className="worker-container">
         <h2>Worker Details</h2>
         <table>
             <thead>

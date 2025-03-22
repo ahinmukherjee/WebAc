@@ -29,8 +29,8 @@ const Header = () => {
                         </Link>
 
                         <Link class="links"
-                            to="/cards"
-                            className={activeLocation === "/cards" ? "menuActive" : ""}
+                            to="/contact"
+                            className={activeLocation === "/contact" ? "menuActive" : ""}
                         >
                             Contact Us
                         </Link>
